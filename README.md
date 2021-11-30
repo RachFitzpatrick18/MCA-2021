@@ -76,6 +76,17 @@ Section 1
 ![mfcc 1](Week%209/con%201%20mfcc.png)
 ![chromagram 1](Week%209/con%201%20chromagram.png)
 
+Section 2
+![spectrogram 2](Week%209/con%202%20spectrogram.png)
+![mfcc 2](Week%209/con%202%20mfcc.png)
+![chromagram 2](Week%209/con%202%20chromagram.png)
+
+Section 3
+![spectrogram 3](Week%209/con%203%20spectrogram.png)
+![mfcc 3](Week%209/con%203%20mfcc.png)
+![chromagram 3](Week%209/con%203%20chromagram.png)
+
+
 
 I then created a histogram of the MFCC files in order to analyse the timber of the sections from the piece, which is the qaulity of sound.
 
