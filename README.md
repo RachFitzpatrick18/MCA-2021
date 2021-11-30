@@ -96,4 +96,6 @@ Week 10
 
 During week 10's lab we had to generate a similarity matrix using the same three tracks as previously used over the past two weeks.
 
+![Similarity Matrix](Week%2010/Week%2010%20Similarity%202.png)
+
 We then had to create a transcription in order to form a comparison analysis. I used my file from week 2 which I then created a wav of through musescore before importing it to sonic visualiser, forming a MIDI file. This transcribed file was then compared to the original file.
