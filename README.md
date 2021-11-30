@@ -86,9 +86,9 @@ Section 3
 ![mfcc 3](Week%209/con%203%20mfcc.png)
 ![chromagram 3](Week%209/con%203%20chromagram.png)
 
-
-
 I then created a histogram of the MFCC files in order to analyse the timber of the sections from the piece, which is the qaulity of sound.
+
+![Histograms](Week%209/histograms.png)
 
 Analysis
 
