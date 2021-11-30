@@ -54,13 +54,16 @@ As my theme is just one single track, I decided to split it into three seperate 
 We then had to create and export both a spectrogram and waveform of each track, these are displayed below.
 
 Section 1
-![spectrogram 1](Images/con%201%20spectrogram.png)
+![spectrogram 1](Week%208/con%201%20spectrogram.png)
+![waveform 1](Week%208/con%201%20waveform.png)
 
 Section 2
 ![spectrogram 2](Images/con%202%20spectrogram.png)
+![waveform 2](Week%208/con%202%20waveform.png)
 
 Section 3
 ![spectrogram 3](Images/con%203%20spectrogram.png)
+![waveform 3](Week%208/con%203%20waveform.png)
 
 An advantage of a time-frequency analysis over a waveform-based analysis would be...
 
