@@ -71,6 +71,7 @@ Week 9
 
 For week 9's task I used the same three sections of my piece as last week, and created a Spectrogram, MFCC and Chromagram of each, these are displayed below.
 
+
 I then created a histogram of the MFCC files in order to analyse the timber of the sections of the piece, which is the qaulity of sound.
 
 Analysis
