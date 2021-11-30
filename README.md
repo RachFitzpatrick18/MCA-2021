@@ -1,4 +1,5 @@
 # MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+Week 1
+The theme for my data set is 
 
 ![spectrogram 1](Images/con%201%20spectrogram.png)
