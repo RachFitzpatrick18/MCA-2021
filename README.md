@@ -28,7 +28,12 @@ For week 3's lab we were to export the MuseScore file which we used in the previ
 
 Week 4
 
-During week 4's lab we had to generate a JSymbolic analysis of our chosen piece of music. When creating this, these are features which I think are the most interesting and relevant to this piece. We also had to generate a piano roll and pitch histogram of our chosen track.
+During week 4's lab we had to generate a JSymbolic analysis of our chosen piece of music. When creating this, these are features which I think are the most interesting and relevant to this piece.
+
+
+
+
+We also had to generate a piano roll and pitch histogram of our chosen track.
 
 ![Piano Roll](Week%204/Piano%20Roll.png)
 
