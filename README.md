@@ -30,9 +30,9 @@ Week 4
 
 During week 4's lab we had to generate a JSymbolic analysis of our chosen piece of music. When creating this, these are features which I think are the most interesting and relevant to this piece. We also had to generate a piano roll and pitch histogram of our chosen track.
 
-![Piano Roll](Week%204%20Piano%20Roll.png)
+[Piano Roll](Week%204%20Piano%20Roll.png)
 
-![Histogram](Week%204%20Histogram.png)
+[Histogram](Week%204%20Histogram.png)
 
 Week 5
 
