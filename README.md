@@ -30,7 +30,27 @@ Week 4
 
 During week 4's lab we had to generate a JSymbolic analysis of our chosen piece of music. When creating this, these are features which I think are the most interesting and relevant to this piece.
 
+Number of Pitches - 43.0
 
+Number of Pich Classes - 12.0
+
+Range - 60
+
+Strong Tonal Centres - 2.0
+
+Mean Pitch - 66.13
+
+Mean Pitch Class - 5.125
+
+Most Common Pitch - 77.0
+
+Most Common Pitch Class - 5.0
+
+Interval Between Most Prevalent Pitches - 12.0
+
+Pitch Variability - 12.05
+
+Most Common Melodic Interval - 2.0
 
 
 We also had to generate a piano roll and pitch histogram of our chosen track.
