@@ -30,9 +30,9 @@ Week 4
 
 During week 4's lab we had to generate a JSymbolic analysis of our chosen piece of music. When creating this, these are features which I think are the most interesting and relevant to this piece. We also had to generate a piano roll and pitch histogram of our chosen track.
 
-[Piano Roll](Week%204%20Piano%20Roll.png)
+[Piano Roll](Week%204%20/Piano%20Roll.png)
 
-[Histogram](Week%204%20Histogram.png)
+[Histogram](Week%204%20/Histogram.png)
 
 Week 5
 
@@ -64,7 +64,7 @@ We then had to create and export both a spectrogram and waveform of each track, 
 
 Section 1
 ![spectrogram 1](Week%208/con%201%20spectrogram.png)
-![waveform 1](Week%208/con%201%20waveform.png)
+![waveform 1](Week%208/con%201%20wavefrom.png)
 
 Section 2
 ![spectrogram 2](Week%208/con%202%20spectrogram.png)
