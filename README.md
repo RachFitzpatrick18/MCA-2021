@@ -73,9 +73,6 @@ These are the elements which I believe to be the most important for describing t
 
 -Date of publication
 
--Source where the transcribed file came from
-
--File size
 
 Week 7
 
