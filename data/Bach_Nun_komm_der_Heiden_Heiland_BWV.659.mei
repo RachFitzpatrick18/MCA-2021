@@ -9,6 +9,8 @@
             <respStmt>
                <persName role="composer">Bach</persName>
             </respStmt>
+            <date>1748</date>
+            <genre>Classical</genre>
          </titleStmt>
          <pubStmt><date isodate="2012-10-22" type="encoding-date">2012-10-22</date>
          </pubStmt>
