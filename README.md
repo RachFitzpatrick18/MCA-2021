@@ -21,7 +21,10 @@ For week 2's task I have transcribed [Bach's Nun Komm der Heiden Heiland](https:
 Week 3
 
 For week 3's lab we were to export the MuseScore file which we used in the previous week's task and convert this to a MusicXML file, in turn then forming an MEI file. We then had to render the code from the folder on our github titled 'verovio.html' and edit it in order to display our own file. 
+
 [MusiCXML File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Week%203%20xml.xml)
+
+[MEI File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Bach_Nun_komm_der_Heiden_Heiland_BWV.659.mei)
 
 Week 4
 
