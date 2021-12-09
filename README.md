@@ -55,9 +55,9 @@ Most Common Melodic Interval - 2.0
 
 We also had to generate a piano roll and pitch histogram of our chosen track.
 
-![Piano Roll](Week%204/Piano%20Roll.png)
+![Piano Roll](Week%204/Week%204%20Piano%20Roll.png)
 
-![Histogram](Week%204/Histogram.png)
+![Histogram](Week%204/Week%204%20Histogram.png)
 
 Week 5
 
