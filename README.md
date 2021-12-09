@@ -125,9 +125,12 @@ Section 3
 ![mfcc 3](Week%209/con%203%20mfcc.png)
 ![chromagram 3](Week%209/con%203%20chromagram.png)
 
-I then created a histogram of the MFCC files in order to analyse the timber of the sections from the piece, which is the qaulity of sound.
+I then created histograms of the MFCC files in order to analyse the timber of the sections from the piece, which is the qaulity of sound.
 
-![Histograms](Week%209/histograms.png)
+![Histogram 1](Week%209/histograms.png)
+![Histogram 2](Week%209/thumbnail_histogram-2.png)
+![Histogram 3](Week%209/thumbnail_histogram-3.png)
+
 
 As the three tracks I'm comparing are all sections from the same song they are obviously of the same genre and therefore feature the same instruments which explains the similarity between the overall shape of the histographs displayed.
 
