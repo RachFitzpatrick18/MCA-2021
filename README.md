@@ -24,7 +24,25 @@ For week 3's lab we were to export the MuseScore file which we used in the previ
 
 [MusiCXML File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Week%203%20xml.xml)
 
-[MEI File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Bach_Nun_komm_der_Heiden_Heiland_BWV.659.mei)
+<div id="app">Verovio is loading...</div>
+<script type="module">
+import 'https://www.verovio.org/javascript/app/verovio-app.js';
+const options = {
+defaultView: 'responsive',
+defaultZoom: 3,
+enableResponsive: true,
+enableDocument: true
+}
+var file = 'data/Bach_Nun_komm_der_Heiden_Heiland_BWV.659.mei';
+const app = new Verovio.App(document.getElementById("app"), options);
+fetch(file)
+.then(function(response) {
+return response.text();
+})
+.then(function(text) {
+app.loadData(text);
+});
+</script>
 
 ## Week 4
 
