@@ -75,7 +75,11 @@ We also had to generate a piano roll and pitch histogram of our chosen track.
 
 ![Piano Roll](Week%204/Week%204%20Piano%20Roll.png)
 
+The piano roll generated shows the length, order and pitch of the notes played within the given piece, the data here directly corresponds to the histogram and the scatter graph also displayed.
+
 ![Histogram](Week%204/Week%204%20Histogram.png)
+
+The histogram displayed conveys the amount of times a certain note is played within the song, here we can see that the most common note throughout my peice is C5.
 
 ![Scatter Graph](Week%204/Week%204%20Scatter%20Graph.png)
 
@@ -122,7 +126,7 @@ Section 3
 ![spectrogram 3](Week%208/con%203%20spectrogram.png)
 ![waveform 3](Week%208/con%203%20waveform.png)
 
-An advantage of a time-frequency analysis over a waveform-based analysis would be...
+An advantage of a time-frequency analysis over a waveform-based analysis would be it allows the information to be far easily read as it takes the form of a frame-by-frame study of the frequency variation over a given period of time, determining what notes are being played when, coordinating to the frequency. However, with a waveform analysis this information isn’t as clear, it displays primarily the amplitude which shows the volume of the track at given points. This does provide us with data on the frequency however is more difficult to gauge due to the absence of required numerical statistics.
 
 ## Week 9
 
@@ -172,3 +176,4 @@ These are the transcribed files
 ![Page 2](Week%2010/week%2010%20task%202-03trans.png)
 ![Page 3](Week%2010/week%2010%20task%202-04trans.png)
 
+There is a clear difference between the original and the transcribed files, the originals are far more easily read as the transcribed form what looks like a jumbled up piece.
