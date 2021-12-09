@@ -141,3 +141,16 @@ During week 10's lab we had to generate a similarity matrix using the same three
 ![Similarity Matrix](Week%2010/Week%2010%20Similarity%202.png)
 
 We then had to create a transcription in order to form a comparison analysis. I used my file from week 2 which I then created a wav of through musescore before importing it to sonic visualiser, forming a MIDI file. This transcribed file was then compared to the original file.
+
+These are the original files
+
+[Page 1](Week%2010%20Image-01-02.png)
+[Page 2](Week%2010%20Image-01-03.png)
+[Page 3](Week%2010%20Image-01-04.png)
+
+These are the transcribed files
+
+[Page 1](week%2010%20task%202-02.trans.png)
+[Page 2](week%2010%20task%202-03.trans.png)
+[Page 3](week%2010%20task%202-04.trans.png)
+
