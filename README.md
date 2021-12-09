@@ -144,13 +144,13 @@ We then had to create a transcription in order to form a comparison analysis. I 
 
 These are the original files
 
-[Page 1](Week%2010%20Image-01-02.png)
-[Page 2](Week%2010%20Image-01-03.png)
-[Page 3](Week%2010%20Image-01-04.png)
+[Page 1](Week%2010/Week%2010%20Image-01-02.png)
+[Page 2](Week%2010/Week%2010%20Image-01-03.png)
+[Page 3](Week%2010/Week%2010%20Image-01-04.png)
 
 These are the transcribed files
 
-[Page 1](week%2010%20task%202-02.trans.png)
-[Page 2](week%2010%20task%202-03.trans.png)
-[Page 3](week%2010%20task%202-04.trans.png)
+[Page 1](Week%2010/week%2010%20task%202-02.trans.png)
+[Page 2](Week%2010/week%2010%20task%202-03.trans.png)
+[Page 3](Week%2010/week%2010%20task%202-04.trans.png)
 
