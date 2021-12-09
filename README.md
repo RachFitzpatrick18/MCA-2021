@@ -1,5 +1,5 @@
-# MCA
-Week 1
+# MCA 2021
+## Week 1
 
 Theme: 
 
@@ -13,12 +13,12 @@ Notated Data - Sheet music is available for the majority of Bach's compositions 
 
 Acoustic Data - Much like the descriptive data, acoustic data can also be found on streaming platforms and sites such as YouTube, housing live tracks and performances of various Bach compositions.
 
-Week 2
+## Week 2
 
 For week 2's task I have transcribed [Bach's Nun Komm der Heiden Heiland](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/Week%202/Bach.mscz)
 
 
-Week 3
+## Week 3
 
 For week 3's lab we were to export the MuseScore file which we used in the previous week's task and convert this to a MusicXML file, in turn then forming an MEI file. We then had to render the code from the folder on our github titled 'verovio.html' and edit it in order to display our own file. 
 
@@ -26,7 +26,7 @@ For week 3's lab we were to export the MuseScore file which we used in the previ
 
 [MEI File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Bach_Nun_komm_der_Heiden_Heiland_BWV.659.mei)
 
-Week 4
+## Week 4
 
 During week 4's lab we had to generate a JSymbolic analysis of our chosen piece of music. When creating this, these are features which I think are the most interesting and relevant to this piece.
 
@@ -61,7 +61,7 @@ We also had to generate a piano roll and pitch histogram of our chosen track.
 
 ![Scatter Graph](Week%204/Week%204%20Scatter%20Graph.png)
 
-Week 5
+## Week 5
 
 Week 5's lab tasked us to create a basic metadata scheme for our theme and to modify our MEI file based on this.
 
@@ -78,13 +78,13 @@ These are the elements which I believe to be the most important for describing t
 To access the updated [MEI File](https://rachfitzpatrick18.github.io/MCA-2021/myMeta.html) 
 
 
-Week 7
+## Week 7
 
 For week 7's task we had to further the previous week's metadata scheme by adding in information such as the genre, which I already previously added, specific licensing data and any other metadata which we think could be enhanced.
 
 [MEI File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Bach_Nun_komm_der_Heiden_Heiland_BWV.659.mei)
 
-Week 8
+## Week 8
 
 As my theme is just one single track, I decided to split it into three seperate smaller sections of the piece in order to complete this weeks task. This is what I believe to be the most important metadata about each track.
 
@@ -104,7 +104,7 @@ Section 3
 
 An advantage of a time-frequency analysis over a waveform-based analysis would be...
 
-Week 9
+## Week 9
 
 For week 9's task I used the same three sections of my piece as last week, and created a Spectrogram, MFCC and Chromagram of each, these are displayed below.
 
@@ -129,7 +129,7 @@ I then created a histogram of the MFCC files in order to analyse the timber of t
 
 As the three tracks I'm comparing are all sections from the same song they are obviously of the same genre and therefore feature the same instruments which explains the similarity between the overall shape of the histographs displayed.
 
-Week 10
+## Week 10
 
 During week 10's lab we had to generate a similarity matrix using the same three tracks as previously used over the past two weeks.
 
