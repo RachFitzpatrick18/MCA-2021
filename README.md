@@ -73,6 +73,8 @@ These are the elements which I believe to be the most important for describing t
 
 -Date of publication
 
+To access the updated [MEI File](https://rachfitzpatrick18.github.io/MCA-2021/myMeta.html) 
+
 
 Week 7
 
