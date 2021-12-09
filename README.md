@@ -88,6 +88,8 @@ For week 7's task we had to further the previous week's metadata scheme by addin
 
 As my theme is just one single track, I decided to split it into three seperate smaller sections of the piece in order to complete this weeks task. This is what I believe to be the most important metadata about each track.
 
+![Table](Week%208/Week%208%20Table.png)
+
 We then had to create and export both a spectrogram and waveform of each track, these are displayed below.
 
 Section 1
