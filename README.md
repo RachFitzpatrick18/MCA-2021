@@ -59,6 +59,8 @@ We also had to generate a piano roll and pitch histogram of our chosen track.
 
 ![Histogram](Week%204/Week%204%20Histogram.png)
 
+![Scatter Graph](Week%204/Week%204%20Scatter%20Graph.png)
+
 Week 5
 
 Week 5's lab tasked us to create a basic metadata scheme for our theme and to modify our MEI file based on this.
