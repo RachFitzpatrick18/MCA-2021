@@ -132,7 +132,7 @@ I then created histograms of the MFCC files in order to analyse the timber of th
 ![Histogram 3](Week%209/thumbnail_histogram-3.png)
 
 
-As the three tracks I'm comparing are all sections from the same song they are obviously of the same genre and therefore feature the same instruments which explains the similarity between the overall shape of the histographs displayed.
+As the three tracks I'm comparing are all sections from the same song they are obviously of the same genre and therefore feature the same instruments which explains the similarity between the overall shape of the histographs displayed above. 
 
 ## Week 10
 
