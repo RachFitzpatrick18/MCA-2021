@@ -82,6 +82,8 @@ Week 7
 
 For week 7's task we had to further the previous week's metadata scheme by adding in information such as the genre, which I already previously added, specific licensing data and any other metadata which we think could be enhanced.
 
+[MEI File](https://github.com/RachFitzpatrick18/MCA-2021/blob/master/data/Bach_Nun_komm_der_Heiden_Heiland_BWV.659.mei)
+
 Week 8
 
 As my theme is just one single track, I decided to split it into three seperate smaller sections of the piece in order to complete this weeks task. This is what I believe to be the most important metadata about each track.
